@@ -1,5 +1,4 @@
-# 🌍 Welcome to the **Global Earthquake Model (GEM) Foundation** GitHub repository!
-
+# 🌍 Welcome to the **Global Earthquake Model** on GitHub!
 
 GEM is a non-profit organization dedicated to advancing global earthquake hazard and risk assessment through open data, software, and scientific research. Our goal is to improve earthquake preparedness and resilience worldwide by developing state-of-the-art tools and methodologies.
 
