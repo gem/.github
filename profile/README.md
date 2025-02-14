@@ -44,8 +44,11 @@ GEM’s open-source software is released under the **GNU Affero General Public L
 ## 📧 Contact Us
 
 📍 **Headquarters**: Pavia, Italy  
+
 📧 **Email**: info@globalquakemodel.org  
-🌐 **Website**: [www.globalquakemodel.org](https://www.globalquakemodel.org) 
+
+🌐 **Website**: [www.globalquakemodel.org](https://www.globalquakemodel.org)
+
 🔗 **LinkedIn**: [GEM Foundation](https://www.linkedin.com/company/global-earthquake-model-foundation/)
 
 ---
