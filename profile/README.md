@@ -50,7 +50,7 @@ GEM’s open-source software is released under the **GNU Affero General Public L
 
 🌐 **Website**: [www.globalquakemodel.org](https://www.globalquakemodel.org)
 
-🔗 **LinkedIn**: [GEM Foundation](https://www.linkedin.com/company/global-earthquake-model-foundation/)
+🔗 **LinkedIn**: [GEM Foundation](https://www.linkedin.com/company/gem-foundation/)
 
 ---
 
