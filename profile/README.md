@@ -32,9 +32,10 @@ GEM collaborates with international organizations, universities, and both public
 We welcome contributions from researchers, developers, and anyone passionate about earthquake risk reduction. Here's how you can help:
 
 - **📂 Contribute to the OpenQuake Engine** – Help improve our open-source software.
-- **📊 Share Data** – Provide seismic hazard and risk data to enhance global models.
-- **📖 Improve Documentation** – Help us make our resources more accessible.
+- **📊 Share Data** – Provide seismic hazard and risk/impact data to enhance global models.
+- **📖 Improve Documentation** – Help us make [our resources](https://docs.openquake.org/oq-engine/manual/latest/) more accessible.
 - **🌍 Spread Awareness** – Advocate for earthquake preparedness and mitigation in your community.
+- **🤝 Partner with Us** Learn how to become a partner and support our activities [here](https://www.globalquakemodel.org/get-involved?type=sponsorship)
 
 ## 📜 Licenses
 
