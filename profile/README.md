@@ -19,7 +19,7 @@ We believe that **open science and collaboration** are essential to reducing sei
 The **OpenQuake Engine** is our flagship open-source software for probabilistic seismic hazard and risk assessment. See the pinned oq-engine repository below.
 
 ### 🗺️ **Global Earthquake Hazard and Risk Models**
-We develop and maintain [global, regional, and national-scale earthquake hazard and risk models[(https://www.globalquakemodel.org/products), providing critical data for informed decision-making. See below our pinned repositories for the GEM Building Taxonomy, the Global Exposure Model, the Global Vulnerability Model, the Global Earthquake Impact Database, and our Country/Territory Risk Profiles.
+We develop and maintain [global, regional, and national-scale earthquake hazard and risk models](https://www.globalquakemodel.org/products), providing critical data for informed decision-making. See below our pinned repositories for the GEM Building Taxonomy, the Global Exposure Model, the Global Vulnerability Model, the Global Earthquake Impact Database, and our Country/Territory Risk Profiles.
 
 ### 📚 **Training & Capacity Development**
 Through workshops, online courses, and collaborative projects, we share, exchange, and develop knowledge with communities and institutions, empowering them to assess and mitigate seismic risk while continuously learning from local expertise and real-world applications.
